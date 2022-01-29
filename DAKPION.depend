@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643423244 source:d:\2. semester\1. projects\1. c\dakpion\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+

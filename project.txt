@@ -1,0 +1,9 @@
+
+ Name: SHADMAN SAKIB KHAN
+
+ Destination: Dhaka to Chittagong or vice versa :: 211 km
+ Destination: Chittagong to Rangpur or vice versa :: 550 km
+ Destination: Rajshahi to Barishal or vice versa :: 360 km
+ Destination: Syhlet to Khulna or vice versa :: 490 km
+
+ Your Total Bill is : 1886 tk.
